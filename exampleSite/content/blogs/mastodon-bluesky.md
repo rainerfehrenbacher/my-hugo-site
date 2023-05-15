@@ -11,20 +11,18 @@ tags:
   - Microblogging
 image: /images/mastodon.png
 description: "An examination of the current state of microblogging and the options that exist for people outside of Twitter, such as Bluesky, Mastodon, and other parts of the fediverse"
-toc: 
 ---
-
 # What is microblogging
 
 The term "microblogging" feels like one of those overly technical terms that academics use to describe digital behavior in a way that nobody else cares about (anybody remember [image macros](https://www.reddit.com/r/explainlikeimfive/comments/186iad/eli5_the_difference_between_a_meme_and_a_macro/)?)
 
-In essence, microblogging is ["a combination of blogging and instant messaging that allows users to create short messages to be posted and shared with an audience online"](https://www.lifewire.com/what-is-microblogging-3486200)
+In essence, microblogging is a combination of blogging and instant messaging that allows users to create short messages to be posted and shared with an audience online ["source"](https://www.lifewire.com/what-is-microblogging-3486200)
 
 # The state of microblogging
 
 Up until a few years ago, the laziest way to describe microblogging might have been to say "it's a nerdy way to describe Twitter". Now we find ourselves in a world where a few things have changed.
 
-Here's a ru: 
+Here's a recap of what's happened in the last few years: 
 - Twitter has been taken over by an unhinged billionaire
 - The unhinged billionaire has set fire to Twitter's reputation and functional status as the "only legitimate player" in the microblogging sphere by removing important user protections, firing key development staff, and putting core functionality behind a paywall.
 - Decentralized social media web platforms such as Mastodon, Diaspora, Pleroma, and CalcKey have emerged as open-source, self-hosted microblogging solutions that use the ActivityPub protocol to federate posts between individual networks
@@ -36,7 +34,7 @@ Here's a ru:
 
 # What is the best microblogging platform?
 
-At the moment, the best microblogging platform is anything that is not Twitter (or it's faschy compatriots Truth Social and Gab). 
+At the moment, the best microblogging platform is **anything that is not Twitter** (or it's faschy compatriots Truth Social and Gab). 
 
 Are you on Mastodon? Great! Do you prefer Bluesky because the fediverse gives you a headache? Fantastic!
 
