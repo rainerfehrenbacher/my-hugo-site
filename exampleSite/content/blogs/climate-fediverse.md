@@ -36,7 +36,7 @@ Our movement *needs* to be resilient against the whims of the fascist billionair
 ## Mastodon
 Mastodon is the most popular platform for creating a community on the fediverse. Hosting your instance has become much easier over the past few years, and tools such as [Buffer](https://buffer.com/mastodon) will allow you to manage multiple Mastodon accounts from the same place that you also manage your other social media accounts. Buffer allows you to schedule posts in advance and to integrate other tools such as Canva, Giphy, and Google Drive (among others).
 
-# WordPress
+## WordPress
 If your organization runs a WordPress site, you can add the [ActivityPub plugin](https://wordpress.org/plugins/activitypub/) and start broadcasting your blog posts onto the fediverse. [Here's a YouTube video with some more information on how it works.](https://www.youtube.com/watch?v=Cx26mI78HOE)
 
 ## Pixelfed
