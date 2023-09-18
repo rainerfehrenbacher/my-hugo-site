@@ -33,16 +33,16 @@ Our movement *needs* to be resilient against the whims of the fascist billionair
 
 # The tools we can use
 
-## Mastodon
-Mastodon is the most popular platform for creating a community on the fediverse. Hosting your instance has become much easier over the past few years, and tools such as [Buffer](https://buffer.com/mastodon) will allow you to manage multiple Mastodon accounts from the same place that you also manage your other social media accounts. Buffer allows you to schedule posts in advance and to integrate other tools such as Canva, Giphy, and Google Drive (among others).
+## [Mastodon](https://joinmastodon.org/)
+[Mastodon](https://joinmastodon.org/) is the most popular platform for creating a community on the fediverse. Hosting your instance has become much easier over the past few years, and tools such as [Buffer](https://buffer.com/mastodon) will allow you to manage multiple Mastodon accounts from the same place that you also manage your other social media accounts. Buffer allows you to schedule posts in advance and to integrate other tools such as Canva, Giphy, and Google Drive (among others).
 
-## WordPress
+## [WordPress ActivityPub plguin](https://wordpress.org/plugins/activitypub/)
 If your organization runs a WordPress site, you can add the [ActivityPub plugin](https://wordpress.org/plugins/activitypub/) and start broadcasting your blog posts onto the fediverse. [Here's a YouTube video with some more information on how it works.](https://www.youtube.com/watch?v=Cx26mI78HOE)
 
-## Pixelfed
-If photo sharing (and video "shorts") is a bigger part of your social media strategy, then Pixelfed might be an option for you to look into. The developers have added some really cool new features over the past year and I'm incredibly excited to see how this tool continues to mature.
+## [Pixelfed](https://pixelfed.org/)
+If photo sharing (and video "shorts") is a bigger part of your social media strategy, then [Pixelfed](https://pixelfed.org/) might be an option for you to look into. The developers have added some really cool new features over the past year and I'm incredibly excited to see how this tool continues to mature.
 
-## GoToSocial
+## [GoToSocial](https://gotosocial.org/)
 [GoToSocial](https://gotosocial.org/) is another intriguing option. The thing that makes it so interesting is that it's very lightweight. It's such a lightweight tool that you can run it on a raspberry pi, which is really good news for your budget if you're hosting your platform on a cloud service like Digital Ocean, OVH, or AWS.
 
 # A few basic places to get started
