@@ -8,9 +8,10 @@ tags:
   - Mastodon
   - Pixelfed
   - Buffer
+  - WordPress
+  - GoToSocial
   - ActivityPub
   - climate
-  - decentralized
 image: /images/elon.png
 description: "The case for proactively building a federated and distributed ecosystem of communications and social media"
 ---
