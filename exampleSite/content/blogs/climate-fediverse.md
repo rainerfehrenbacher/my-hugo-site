@@ -32,7 +32,7 @@ We need to develop parallel ecosystems of social media platforms we own (aka Act
 
 Our movement *needs* to be resilient against the whims of the fascist billionaires who vehemently resent us. The best way to do that is to build our technology infrastructure on tools that are largely outside their sphere of influence.
 
-# The tools we can use
+# A few tools we can use
 
 ## [Mastodon](https://joinmastodon.org/)
 [Mastodon](https://joinmastodon.org/) is the most popular platform for creating a community on the fediverse. Hosting your instance has become much easier over the past few years, and tools such as [Buffer](https://buffer.com/mastodon) will allow you to manage multiple Mastodon accounts from the same place that you also manage your other social media accounts. Buffer allows you to schedule posts in advance and to integrate other tools such as Canva, Giphy, and Google Drive (among others).
@@ -48,5 +48,5 @@ If photo sharing (and video "shorts") is a bigger part of your social media stra
 
 # A few basic places to get started
 - [MastoHost](https://masto.host/) is a place where you can purchase fully managed Mastodon hosting
-- [Namecheap](https://namecheap.org) is a place where you can purchase a domain name for your federated social site
+- [Namecheap](https://namecheap.com) is a place where you can purchase a domain name for your federated social site
 - ["An Audacious Plan to Halt the Internet's Ensh*ttification - Cory Doctorow"](https://www.youtube.com/watch?v=rimtaSgGz_4) - a recent and highly relevant speech given at DEF CON 31 about building a better internet
