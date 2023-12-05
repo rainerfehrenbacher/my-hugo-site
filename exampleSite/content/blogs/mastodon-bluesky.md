@@ -1,5 +1,5 @@
 ---
-title: "The Battle for Microblogging"
+title: "Microblogging FTW"
 date: 2023-05-15T12:53:58+05:30
 draft: false
 author: "Rainer Fehrenbacher"
@@ -12,7 +12,7 @@ tags:
 image: /images/mastodon.png
 description: "An examination of the current state of microblogging and the options that exist for people outside of Twitter, such as Bluesky, Mastodon, and other parts of the fediverse"
 ---
-# What is microblogging
+# What is microblogging?
 
 The term "microblogging" feels like one of those overly technical terms that academics use to describe digital behavior in a way that nobody else cares about (anybody remember [image macros](https://www.reddit.com/r/explainlikeimfive/comments/186iad/eli5_the_difference_between_a_meme_and_a_macro/)?)
 
