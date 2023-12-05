@@ -1,5 +1,5 @@
 ---
-title: "Building Resilience: The climate movement needs to build resilient information and communications ecosystems that are not owned by billionaires"
+title: "Building Resilience"
 date: 2023-09-17T12:53:58+05:30
 draft: false
 author: "Rainer Fehrenbacher"
