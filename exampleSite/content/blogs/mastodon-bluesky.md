@@ -55,3 +55,5 @@ This kind of shift involves an incredible amount of effort. It's like turning a 
 # TL;DR
 
 Leave Twitter. Go somewhere else - doesn't matter if it's Mastodon or Bluesky (although I very much prefer Mastodon because it's not controlled by VC capitalists). Encourage people in your community to also leave Twitter and follow you to the fediverse (or Bluesky...blech).
+
+<iframe title="How We Win Back Our Cities For People" width="560" height="315" src="https://urbanists.video/videos/embed/3e527c8d-666a-4859-93d2-0a7d97688974" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
