@@ -1,7 +1,7 @@
 ---
 title: "Solidarity with Palestine"
 date: 2023-12-21T12:53:58+05:30
-draft: false
+draft: true
 author: "Rainer Fehrenbacher"
 tags:
   - Palestine
