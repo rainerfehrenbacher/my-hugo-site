@@ -1,13 +1,15 @@
 ---
-title: "Blood plasma donors are cool!"
+title: "Keep yourself safe at protests!"
 date: 2024-01-03T12:53:58+05:30
 draft: true
 author: "Rainer Fehrenbacher"
 tags:
-  - blood donation
-  - blood plasma
+  - cybersecurity
+  - digital safety
+  - protest
+  - security culture
 image: /images/gaza.png
-description: "Consider picking up a life saving habit"
+description: "Resources to keep yourself safe at a protest"
 ---
 Have you ever thought about donating blood, or blood plasma? Until this past year, I never thought very much about donating blood because I was (and still am) very afraid of needles.
 
