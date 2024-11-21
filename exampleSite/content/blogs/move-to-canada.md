@@ -1,7 +1,7 @@
 ---
 title: "How to move to Canada"
 date: 2024-11-07T12:53:58+05:30
-draft: false
+draft: true
 author: "Rainer Fehrenbacher"
 tags:
   - Canada
@@ -12,7 +12,9 @@ description: "One immigrant's advice on moving North"
 # A few sentences on what happened
 *Consider the following paragraphs to be like the section before a recipe. I'll write some brief thoughts, but feel free to skip below to the part with actual instructions*
 
-Let's not kid ourselves - the 2024 US election may be the most disappointing political event in the history of many of our lifetimes. Not only did the majority of voters roundly reject the possibility of the first female president (again), but they also voluntarily signed up for what promises to be the first openly fascist government in American history. Ugh. AAAAAGGGHHH, even.
+Let's not kid ourselves - the 2024 US election may be the most disappointing political event in the history of many of our lifetimes. Not only did the majority of voters roundly reject the possibility of the first female president (again), but they also voluntarily signed up for what promises to be the first openly fascist government in American history. 
+
+Ugh. AAAAAGGGHHH, even.
 
 Now that the dust has somewhat settled, we are all trying to figure out the same thing - *what now?*
 
