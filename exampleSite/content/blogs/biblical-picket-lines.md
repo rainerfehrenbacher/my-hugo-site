@@ -19,23 +19,29 @@ description: "Until April, I was the MoveUP shop steward at a small Canadian non
 
 # Honor the Line
 
-Until April of this year, I was the MoveUP (COPE Local 378) shop steward at the small Canadian non-profit where I worked as IT lead. Then the role ended and the position went with it. The years I spent in that role thinking and worker's rights from inside that role changed how I read scripture more than any sermon ever did.
+Until April of this year, I was the MoveUP (COPE Local 378) shop steward at the small Canadian non-profit where I worked as IT lead. Then the role ended and the position went with it. The years I spent in that role thinking about and fighting for the rights of my colleagues changed how I read scripture more than any sermon ever did.
 
-This is the piece I would have wanted to read in my first year as a steward, and what I want my fellow Christians to read whether they have ever set foot on a picket line or not.
+This is the piece I wish someone had shared with me twenty years ago, and what I want my fellow Christians to read whether or not they have ever given a second's thought to labour rights.
 
-The case is simple. Christians cannot morally cross a picket line. This belief is not grounded in mere political preference. It is not as left-wing addition to the gospel. Rather, this behavioural imperative is a matter of basic biblical obedience. 
+The point I'm trying to make is simple. Christians cannot morally cross a picket line. This belief is not grounded in mere political preference. It is not a woke left-wing addition to the gospel. Rather, this behavioural imperative is a matter of basic biblical obedience.
 
-The reason most of us were never told this plainly is that the church has been so thoroughly catechized by the surrounding economy that it has lost the ability to read its own scriptures plainly. 
+It is a moral obligation for Christians to never, never, never cross a picket line, and this ideological axiom is supported both by biblical scripture as well as centuries of cross-denominational tradition.
+
+The unfortunate reason most of us were never told this plainly is that the church has become placatingly comfortable (some might even say complicit) with the extractive power structures of neoliberal capitalism that it has lost the ability to read its own scriptures plainly. 
 
 So let's read them plainly.
 
 # What a picket line actually is
 
-A picket line is not a traffic cone. It is not a polite suggestion. It is workers (i.e. your neighbours, in most cases) standing in the cold to say *we are being crushed, and we will not be crushed quietly.* It is a cry made visible on the sidewalk so the rest of us cannot pretend we did not hear.
+Before we actually dive into the supporting evidence, let's define exactly what we are talking about.
 
-The first stage of any labour dispute is a thousand small humiliations the public never sees: job responsibilities overhauled without notice or consultation, benefits quietly cut back, workloads inflated, the slow accumulation of being treated as a cost rather than a person. By the time a picket goes up, enormous amounts of damage have already been absorbed in silence. 
+A picket line is not a traffic cone. It is not a polite suggestion. It is workers (i.e. your neighbours, in most cases) standing together in the cold to say *we are being crushed, and we will not be crushed quietly.* It is a cry made visible on the sidewalk so the rest of us cannot pretend we did not hear.
 
-The line is what becomes audible when silence has stopped working.
+The first stage of any labour dispute is a thousand small humiliations the public never sees: job responsibilities overhauled without notice or consultation, benefits quietly cut back, workloads inflated, the slow accumulation of being treated as a cost rather than a person. By the time a picket goes up, enormous amounts of damage have already been absorbed in silence.
+
+The second stage is usually uncooperative or bad faith negotiation on the part of the employer.
+
+The line is what becomes audible when the thousands of indignities suffered in silence are not properly acknowledged or addressed. Strikes and picket lines are famously a last-ditch effort to wield the largest level of influence that workers have at their disposal. Strikes are not the rumblings of spoiled workers who should feel grateful rather than entitled. Rather, they are the cries of workers with legitimate grievances about specific injustices that they are forced to suffer on a daily basis (e.g. the airline stewards who don't get paid for work until the airplane door is sealed). 
 
 Scripture has a great deal to say about that cry.
 
